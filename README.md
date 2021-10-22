@@ -1,7 +1,7 @@
 # template-node-ts
 
 ### Criando Uma API e Respondendo com Uma Interface
-✨ Aprendendo e Estudandando JavaScript 
+
 
 ✔️ usando Nodejs + Express + Typescript Para Esse Projeto.
 
